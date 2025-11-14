@@ -1,0 +1,9 @@
+D:/VS Code/Liminality/Build/CMakeFiles/edit_cache.dir
+D:/VS Code/Liminality/Build/CMakeFiles/rebuild_cache.dir
+D:/VS Code/Liminality/Build/Engine/CMakeFiles/Engine.dir
+D:/VS Code/Liminality/Build/Engine/CMakeFiles/glad.dir
+D:/VS Code/Liminality/Build/Engine/CMakeFiles/edit_cache.dir
+D:/VS Code/Liminality/Build/Engine/CMakeFiles/rebuild_cache.dir
+D:/VS Code/Liminality/Build/Game/CMakeFiles/Liminality.dir
+D:/VS Code/Liminality/Build/Game/CMakeFiles/edit_cache.dir
+D:/VS Code/Liminality/Build/Game/CMakeFiles/rebuild_cache.dir

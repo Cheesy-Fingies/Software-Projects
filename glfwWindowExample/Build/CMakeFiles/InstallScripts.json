@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/VS Code/Liminality/Build/cmake_install.cmake",
+		"D:/VS Code/Liminality/Build/Engine/cmake_install.cmake",
+		"D:/VS Code/Liminality/Build/Game/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
